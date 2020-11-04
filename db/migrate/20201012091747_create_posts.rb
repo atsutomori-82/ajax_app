@@ -5,5 +5,5 @@ class CreatePosts < ActiveRecord::Migration[6.0]
       t.boolean :checked
       t.timestamps
     end
-  end  
+  end
 end
